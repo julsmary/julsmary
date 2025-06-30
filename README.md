@@ -34,7 +34,7 @@
 ---
 
 ### 📫 Conecta conmigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/juliaarosemena) *(reemplaza con tu URL)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/juliaarosemena) 
 - 📧 julsarosal@gmail.com*
 
 ---
